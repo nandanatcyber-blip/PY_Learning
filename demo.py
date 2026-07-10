@@ -1,3 +1,3 @@
-print("Welcome to Python")
-print("My name is Nandan")
-print("Python is easy to learn")
+x = 10
+y = 30
+print(x)
